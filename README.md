@@ -81,7 +81,7 @@ Berhasil menemukan dan melaporkan critical **Business Logic Errors** pada platfo
 
 | Product | Description |
 |---------|-------------|
-| Sandeza Intelligent | Platform kecerdasan buatan |
+| Sandeza Intelligent | Platform Intelligent Messaging untuk efisiensi bisnis (omnichannel) |
 | Sandeza Loyalty (Prezent) | Platform loyalty & reward |
 | Sandeza Chatbot | Platform chatbot enterprise |
 | Wekonnek | Platform komunikasi |
