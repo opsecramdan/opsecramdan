@@ -35,7 +35,7 @@
 |---------------|--------|
 | 🎯 Certified Penetration Testing Professional v2 (CPENT) | EC-Council |
 | ⚡ Certified Ethical Hacker (CEH) | EC-Council |
-| 🔒 Certified Data Protection Officer (CDPO) | — |
+| 🔒 Certified Data Protection Officer (CDPO) | APDII |
 | 📋 COBIT 5 Foundation | ISACA |
 
 ---
