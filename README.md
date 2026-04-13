@@ -24,7 +24,7 @@
 | 🔍 Total Vulnerability Findings | **200+** |
 | 🏢 Internal Systems Tested (SAG) | **13+ products** |
 | 💰 Bug Bounty Earned | **$1,500 USD** |
-| 🛡️ Fraud Losses Prevented | **>10 Juta IDR** |
+| 🛡️ Fraud Losses Prevented | **>5 M IDR** |
 | 📅 Years of Experience | **10+ years** |
 
 ---
