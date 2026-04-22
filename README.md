@@ -3,7 +3,7 @@
 # Muhammad Ramadan
 ### 🛡️ Senior Cybersecurity Consultant | Offensive & Defensive Security | SOC & Governance Lead
 
-**Jakarta Selatan, Indonesia**
+**South Jakarta, Indonesia**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Ramadan-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-ramadan-68a075205)
 [![Email](https://img.shields.io/badge/Email-opsecramdan%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:opsecramdan@gmail.com)
@@ -24,7 +24,7 @@
 | 🔍 Total Vulnerability Findings | **200+** |
 | 🏢 Internal Systems Tested (SAG) | **13+ products** |
 | 💰 Bug Bounty Earned | **$1,500 USD** |
-| 🛡️ Fraud Losses Prevented | **>5 B IDR** |
+| 🛡️ Fraud Losses Prevented | **>5 Billion IDR** |
 | 📅 Years of Experience | **10+ years** |
 
 ---
@@ -45,7 +45,7 @@
 ### Affirm — Business Logic Errors
 > **Total Bounty: $1,500 USD**
 
-Berhasil menemukan dan melaporkan critical **Business Logic Errors** pada platform keuangan internasional **Affirm** melalui program bug bounty resmi. Temuan ini berpotensi berdampak signifikan pada integritas transaksi keuangan pengguna.
+Successfully identified and reported critical **Business Logic Errors** on the international financial platform **Affirm** through its official bug bounty program. The findings had the potential to significantly impact the integrity of user financial transactions.
 
 ---
 
@@ -66,7 +66,7 @@ Berhasil menemukan dan melaporkan critical **Business Logic Errors** pada platfo
 - **Type:** Black Box Penetration Testing
 - **Focus:** Web OWASP Top 10, Mobile OWASP Mobile Top 10
 
-### 4. BRI Apps — Fitur Live Style
+### 4. BRI Apps — Live Style Feature
 - **Scope:** Mobile Application (Android)
 - **Type:** Black Box Penetration Testing
 - **Focus:** Mobile OWASP Top 10, Insecure Data Storage, API Security
@@ -75,19 +75,19 @@ Berhasil menemukan dan melaporkan critical **Business Logic Errors** pada platfo
 
 ## 🟠 VAPT Projects — Internal (Sprint Asia Group)
 
-> Total keseluruhan temuan kerentanan: **200+ findings** mencakup critical, high, medium, dan low severity.
+> Total vulnerability findings across all products: **200+ findings** covering critical, high, medium, and low severity.
 
 ### 🔵 Sprint / Sandeza Products
 
 | Product | Description |
 |---------|-------------|
-| Sandeza Intelligent | Platform Intelligent Messaging untuk efisiensi bisnis (omnichannel) |
-| Sandeza Loyalty (Prezent) | Platform loyalty & reward |
-| Sandeza Chatbot | Platform chatbot enterprise |
-| Wekonnek | Platform komunikasi |
+| Sandeza Intelligent | Intelligent Messaging Platform for business efficiency (omnichannel) |
+| Sandeza Loyalty (Prezent) | Loyalty & reward platform |
+| Sandeza Chatbot | Enterprise chatbot platform |
+| Wekonnek | Communication platform |
 
 > ⚠️ **Critical Finding — Prezent (Sandeza Loyalty)**
-> Ditemukan critical vulnerability dengan **potensi fraud** yang dapat merugikan perusahaan secara signifikan. Vulnerability berhasil di-remediate sebelum dieksploitasi.
+> A critical vulnerability was discovered with significant **fraud potential** that could have caused considerable financial harm to the company. The vulnerability was successfully remediated before it could be exploited.
 
 ---
 
@@ -96,18 +96,18 @@ Berhasil menemukan dan melaporkan critical **Business Logic Errors** pada platfo
 | Product | Description |
 |---------|-------------|
 | PG Bayarind | Payment Gateway |
-| Disbursement Bayarind | Platform disbursement / pencairan dana |
+| Disbursement Bayarind | Fund disbursement platform |
 | PCS Bayarind | Payment Collection System |
 | Emoney Bayarind | E-Money platform |
-| Pasarind | Platform marketplace |
-| Mobile Apps Bayarind | Aplikasi mobile Bayarind |
-| Mobile Apps Pasarind | Aplikasi mobile Pasarind |
+| Pasarind | Marketplace platform |
+| Mobile Apps Bayarind | Bayarind mobile application |
+| Mobile Apps Pasarind | Pasarind mobile application |
 
 > ⚠️ **Critical Findings — Disbursement Bayarind & Pasarind**
-> Critical vulnerability ditemukan pada fitur disbursement dan Pasarind dengan **potensi kerugian fraud > 10 Juta IDR**. Temuan langsung dilaporkan dan di-remediate, menyelamatkan perusahaan dari potensi kerugian finansial besar.
+> Critical vulnerabilities were discovered in the disbursement and Pasarind features with **potential fraud losses exceeding 10 Million IDR**. Findings were immediately reported and remediated, saving the company from significant financial loss.
 
 > ⚠️ **Critical Finding — Mobile Apps**
-> Critical vulnerability pada aplikasi mobile yang berpotensi mengekspos data sensitif pengguna.
+> A critical vulnerability in the mobile applications that had the potential to expose sensitive user data.
 
 ---
 
@@ -115,65 +115,65 @@ Berhasil menemukan dan melaporkan critical **Business Logic Errors** pada platfo
 
 | Product | Description |
 |---------|-------------|
-| Izidok | Platform layanan dokter digital |
-| Iziklaim | Platform klaim digital |
-| Izihealth | Platform kesehatan digital |
+| Izidok | Digital doctor services platform |
+| Iziklaim | Digital claims processing platform |
+| Izihealth | Digital health platform |
 
 ---
 
 ## 🔵 SOC & Security Infrastructure Projects
 
 ### 1. 🖥️ Security Operations Center (SOC) — Wazuh + TheHive + Cortex
-- Design dan implementasi **SIEM** menggunakan **Wazuh** sebagai log aggregator dan threat detection engine
-- Integrasi **TheHive** sebagai platform manajemen insiden keamanan
-- Integrasi **Cortex** untuk response automation dan threat intelligence enrichment
-- Alerting real-time terintegrasi ke **Telegram** untuk notifikasi insiden instan
-- SOC platform fully integrated: detection → case management → response automation
+- Designed and implemented a **SIEM** solution using **Wazuh** as the log aggregator and threat detection engine
+- Integrated **TheHive** as the security incident management platform
+- Integrated **Cortex** for response automation and threat intelligence enrichment
+- Real-time alerting integrated with **Telegram** for instant incident notifications
+- Fully integrated SOC platform: detection → case management → response automation
 
 **Stack:** `Wazuh` `TheHive` `Cortex` `Telegram Bot` `Linux`
 
 ---
 
 ### 2. 🧱 WAF Implementation — Safeline
-- Implementasi **Web Application Firewall (WAF) Safeline** untuk environment development
-- Proteksi dari serangan OWASP Top 10: SQLi, XSS, RCE, dll.
-- Monitoring dan blocking traffic berbahaya secara real-time
+- Deployed **Safeline Web Application Firewall (WAF)** for the development environment
+- Protection against OWASP Top 10 attacks: SQLi, XSS, RCE, and more
+- Real-time monitoring and blocking of malicious traffic
 
 **Stack:** `Safeline WAF` `Nginx` `Docker`
 
 ---
 
 ### 3. 🦠 Endpoint Security — EDR & DLP
-- Implementasi **Antivirus, EDR (Endpoint Detection & Response), dan DLP (Data Loss Prevention)** menggunakan **Acronis**
-- Penyusunan dan penerapan **DLP Policy** lengkap untuk seluruh endpoint corporate
-- Monitoring endpoint security secara terpusat
+- Implemented **Antivirus, EDR (Endpoint Detection & Response), and DLP (Data Loss Prevention)** using **Acronis**
+- Developed and enforced a comprehensive **DLP Policy** across all corporate endpoints
+- Centralized endpoint security monitoring
 
 **Stack:** `Acronis` `EDR` `DLP` `Windows Endpoint`
 
 ---
 
 ### 4. 📋 IT Asset Management — iTop
-- Setup dan implementasi **iTop** sebagai platform manajemen aset IT
-- Tracking lifecycle aset hardware dan software seluruh perusahaan
-- Integrasi dengan helpdesk dan change management
+- Set up and implemented **iTop** as the IT asset management platform
+- Tracked hardware and software asset lifecycle across the entire organization
+- Integrated with helpdesk and change management workflows
 
 **Stack:** `iTop` `PHP` `MySQL`
 
 ---
 
 ### 5. 📊 Audit Trail Dashboard — Metabase
-- Implementasi **Metabase** untuk data collection dan visualisasi
-- Dashboard audit trail seluruh server untuk keperluan monitoring dan compliance
-- Membantu tim security dan manajemen dalam oversight aktivitas sistem
+- Implemented **Metabase** for data collection and visualization
+- Built an audit trail dashboard covering all servers for monitoring and compliance purposes
+- Provided the security team and management with improved oversight of system activity
 
 **Stack:** `Metabase` `PostgreSQL` `Linux`
 
 ---
 
 ### 6. 📝 Digital Form & Approval Flow — Zoho Forms
-- Design digital form mulai dari pembuatan template
-- Implementasi alur approval (flow approval) menggunakan **Zoho Forms**
-- Digitalisasi proses administrasi dan approval IT
+- Designed digital forms from template creation through to deployment
+- Implemented approval workflows using **Zoho Forms**
+- Digitized administrative processes and IT approval flows
 
 **Stack:** `Zoho Forms` `Zoho Flow`
 
@@ -181,89 +181,89 @@ Berhasil menemukan dan melaporkan critical **Business Logic Errors** pada platfo
 
 ## 🏅 Key Achievements
 
-### ✅ Membangun Tim VAPT Internal Independent & Profesional
-Berhasil membangun tim penetration testing internal yang mandiri dan profesional di Sprint Asia Group. Tim ini mampu menggantikan kebutuhan pentest eksternal untuk seluruh produk SAG, menghasilkan **efisiensi pengeluaran signifikan** tanpa mengorbankan kualitas pengujian keamanan.
+### ✅ Built an Independent & Professional Internal VAPT Team
+Successfully established a self-sufficient, professional internal penetration testing team at Sprint Asia Group. This team replaced the need for external pentest vendors across all SAG products, delivering **significant cost savings** without compromising the quality of security testing.
 
-### 🛡️ Membangun Security Operations Center (SOC)
-Merancang dan mengimplementasikan SOC platform dari nol menggunakan teknologi open-source (Wazuh, TheHive, Cortex) yang terintegrasi penuh dengan sistem alerting Telegram — memberikan visibilitas keamanan 24/7 kepada perusahaan.
+### 🛡️ Built a Security Operations Center (SOC)
+Designed and implemented a SOC platform from the ground up using open-source technologies (Wazuh, TheHive, Cortex), fully integrated with a Telegram alerting system — providing the company with 24/7 security visibility.
 
-### 💰 Menyelamatkan Perusahaan dari Kerugian Fraud >10 Juta IDR
-Melalui VAPT internal yang komprehensif, berhasil menemukan critical vulnerability pada sistem Disbursement Bayarind dan Pasarind yang berpotensi dieksploitasi untuk fraud. Temuan disampaikan dan di-remediate sebelum terjadi insiden nyata.
+### 💰 Saved the Company from Fraud Losses Exceeding 10 Million IDR
+Through comprehensive internal VAPT, critical vulnerabilities were discovered in the Bayarind Disbursement and Pasarind systems that could have been exploited for fraud. Findings were reported and remediated before any real incident occurred.
 
-### 📋 Membantu Perusahaan Comply dengan ISO 27001:2022
-Berkontribusi langsung dalam proses kepatuhan ISO 27001:2022 melalui implementasi kebijakan IT, security assessment, VAPT berkala, dan governance framework yang selaras dengan standar internasional.
+### 📋 Supported ISO 27001:2022 Compliance
+Directly contributed to the company's ISO 27001:2022 compliance journey through IT policy implementation, security assessments, regular VAPT cycles, and a governance framework aligned with international standards.
 
-### 💸 Efisiensi Biaya VAPT External untuk Sprint Asia Group
-Dengan membangun kapabilitas VAPT internal, perusahaan tidak lagi bergantung sepenuhnya pada vendor eksternal untuk pengujian keamanan produk-produknya — menghemat biaya operasional secara berkelanjutan.
+### 💸 Reduced External VAPT Costs for Sprint Asia Group
+By building an in-house VAPT capability, the company no longer relies entirely on external vendors for security testing of its products — generating ongoing operational cost savings.
 
 ---
 
 ## 💼 Work Experience
 
-### 🔴 PT. Sprint Asia Technology *(5 tahun — sekarang)*
+### 🔴 PT. Sprint Asia Technology *(5 years — present)*
 
 **Lead IT Security | Audit | Governance**
-`Maret 2024 — Present`
-- Membangun Security Operations Center (SOC) platform
-- Memimpin incident response: identification, containment, eradication, recovery, post-incident analysis
-- Melaksanakan VAPT untuk seluruh produk Sprint Asia Group
-- Implementasi IT governance framework sesuai standar industri
+`March 2024 — Present`
+- Built and operate the company's Security Operations Center (SOC) platform
+- Lead incident response: identification, containment, eradication, recovery, and post-incident analysis
+- Conduct VAPT for all Sprint Asia Group products
+- Implement IT governance frameworks aligned with industry standards
 
 **IT Security | Audit | Governance**
-`Januari 2023 — Mei 2024`
-- Review dan pengembangan SOP IT serta kebijakan internal
-- Monitoring dan enforcement compliance kebijakan IT
-- Security assessment seluruh layanan IT Sprint Asia Technology
-- Penetration testing dan mitigasi vulnerability sistem
-- Deployment dan maintenance endpoint security (EDR, DLP)
+`January 2023 — May 2024`
+- Reviewed and developed IT SOPs and internal security policies
+- Monitored and enforced IT policy compliance
+- Conducted security assessments across all Sprint Asia Technology IT services
+- Performed penetration testing and vulnerability mitigation
+- Deployed and maintained endpoint security solutions (EDR, DLP)
 
 **Network & Infrastructure**
-`Maret 2021 — Desember 2023`
-- Setup koneksi VPN IPSec, Leased Line, Internet ke partner/customer
-- Manajemen perangkat Firewall: Mikrotik, Fortigate, Barracuda
-- Manajemen Router, Switch, dan traffic internal/eksternal
-- Koordinasi dengan penyedia layanan: Lintasarta, ICON, Indonet, Iforte, Moratel
+`March 2021 — December 2023`
+- Configured IPSec VPN, Leased Line, and Internet connectivity for partners and customers
+- Managed Firewall devices: Mikrotik, Fortigate, Barracuda
+- Managed Routers, Switches, and internal/external traffic
+- Coordinated with service providers: Lintasarta, ICON, Indonet, Iforte, Moratel
 
 ---
 
-### 🟡 PT NAP Info Lintas Nusa / Matrix *(2 tahun 10 bulan)*
+### 🟡 PT NAP Info Lintas Nusa / Matrix *(2 years 10 months)*
 
 **Network Engineer Operation**
-`Maret 2019 — Maret 2021`
-- Troubleshoot IP Transit, Local Loop, Internet Dedicated, Internet Broadband
-- Advertise IP Public dan ASN Customer
-- Koordinasi dengan Upstream Tier 1: NTT, Telstra, Level 3, Telia, Tata
-- Koordinasi dengan peering partner: IIX, OIXP, AMSIX, DECIX
+`March 2019 — March 2021`
+- Troubleshot IP Transit, Local Loop, Internet Dedicated, and Internet Broadband services
+- Advertised Public IP addresses and customer ASNs
+- Coordinated with Tier 1 Upstream providers: NTT, Telstra, Level 3, Telia, Tata
+- Coordinated with peering partners: IIX, OIXP, AMSIX, DECIX
 
 **Monitoring Specialist**
-`November 2018 — Maret 2019`
-- Monitor Network Peering, Local Loop, Backbone, Upstream via NMS (Cacti, Observium, WhatsApp Gold, Tejas, OPManager)
-- First level handling dan eskalasi ke tim troubleshoot
+`November 2018 — March 2019`
+- Monitored Network Peering, Local Loop, Backbone, and Upstream via NMS tools (Cacti, Observium, WhatsApp Gold, Tejas, OPManager)
+- Handled first-level incidents and escalated to the troubleshooting team
 
 **Customer Care**
-`Juni 2018 — November 2018`
+`June 2018 — November 2018`
 
 ---
 
 ### 🟢 PT. Varnion Technology Semesta
 **Network Control & Customer Solution**
-`Maret 2017 — Juni 2017`
+`March 2017 — June 2017`
 
 ---
 
 ### 🔵 Qiandra Information Technology
 **Technical Support Engineer**
-`Mei 2013 — Maret 2017`
-- Instalasi dan konfigurasi jaringan radio, LAN, WAN
-- Konfigurasi perangkat: Mikrotik, Cisco, Juniper, CCTV, Access Point
-- Network troubleshooting LAN & WAN
+`May 2013 — March 2017`
+- Installed and configured radio networks, LAN, and WAN
+- Configured devices: Mikrotik, Cisco, Juniper, CCTV, Access Points
+- Performed LAN & WAN network troubleshooting
 
 ---
 
 ## 🎓 Education
 
-**S1 Manajemen Sistem Informasi**
-Universitas Pamulang *(September 2024 — Sekarang)*
+**Bachelor's Degree in Management Information Systems**
+Universitas Pamulang *(September 2024 — Present)*
 
 ---
 
@@ -301,7 +301,7 @@ Universitas Pamulang *(September 2024 — Sekarang)*
 | 📧 Email | [opsecramdan@gmail.com](mailto:opsecramdan@gmail.com) |
 | 💼 LinkedIn | [muhammad-ramadan-68a075205](https://www.linkedin.com/in/muhammad-ramadan-68a075205) |
 | 📱 WhatsApp | [089651771870](https://wa.me/62089651771870) |
-| 📍 Location | Jakarta Selatan, Jakarta Raya, Indonesia |
+| 📍 Location | South Jakarta, Jakarta Raya, Indonesia |
 
 ---
 
