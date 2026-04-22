@@ -187,7 +187,7 @@ Successfully established a self-sufficient, professional internal penetration te
 ### 🛡️ Built a Security Operations Center (SOC)
 Designed and implemented a SOC platform from the ground up using open-source technologies (Wazuh, TheHive, Cortex), fully integrated with a Telegram alerting system — providing the company with 24/7 security visibility.
 
-### 💰 Saved the Company from Fraud Losses Exceeding 10 Million IDR
+### 💰 Saved the Company from Fraud Losses Exceeding > 5 Billion IDR
 Through comprehensive internal VAPT, critical vulnerabilities were discovered in the Bayarind Disbursement and Pasarind systems that could have been exploited for fraud. Findings were reported and remediated before any real incident occurred.
 
 ### 📋 Supported ISO 27001:2022 Compliance
