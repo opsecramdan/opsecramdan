@@ -103,8 +103,8 @@ Successfully identified and reported critical **Business Logic Errors** on the i
 | Mobile Apps Bayarind | Bayarind mobile application |
 | Mobile Apps Pasarind | Pasarind mobile application |
 
-> ⚠️ **Critical Findings — Disbursement Bayarind & Pasarind**
-> Critical vulnerabilities were discovered in the disbursement and Pasarind features with **potential fraud losses exceeding 10 Million IDR**. Findings were immediately reported and remediated, saving the company from significant financial loss.
+> ⚠️ **Critical Findings — Disbursement Bayarind & Pasarind**  
+> Critical vulnerabilities were discovered in the disbursement and Pasarind features with the potential to cause **unbounded financial losses**, as the impact could not be precisely quantified if exploited. Findings were immediately reported and remediated, preventing significant risk to the company.
 
 > ⚠️ **Critical Finding — Mobile Apps**
 > A critical vulnerability in the mobile applications that had the potential to expose sensitive user data.
